@@ -21,9 +21,7 @@ chaubaotrans-Laptop:git-lab chaubaotran$
 6. SHows that the file is now tracked
 7. Lists the files with commit
 8. Shows all commits and commit history
-9. On branch main
-Your branch is up to date with 'origin/main'.
-
+9. On branch main Your branch is up to date with 'origin/main'.
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
