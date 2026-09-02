@@ -1,6 +1,22 @@
-1. Shows current version of git installed.
-2. Shows the username and. emails.
-3. shows more information about the command
+1. git version 2.39.3 (Apple Git-146)
+2. credential.helper=osxkeychain
+init.defaultbranch=main
+user.name=JohnnyC26
+user.email=jc180425@ohio.edu
+credential.helper=cache
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.origin.url=https://github.com/JohnnyC26/git-lab.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+chaubaotrans-Laptop:git-lab chaubaotran$
+
+4. shows more information about the command
 5.Shows tracked and untracked files
 6. SHows that the file is now tracked
 7. Lists the files with commit
