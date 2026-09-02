@@ -15,6 +15,8 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 chaubaotrans-Laptop:git-lab chaubaotran$ 
+
+
 10. Yes
 11. It gives an error because it is trying to push it to the same local computer.
 12. Yes
